@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Baibhav Datta 
+
+MSc Data Science student @ the City University of London.
+
+🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,anaconda,nodejs,cpp,gcp,py,tensorflow,opencv,ai,pytorch)](https://skillicons.dev)
+
+🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/baibhav-datta/)
+- [Email](mailto:baibhav.datta@outlook.com)
