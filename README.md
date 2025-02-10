@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 💻 Baibhav Datta 
 
-MSc Data Science student @ the City University of London.
+Data Scientist | Python | SQL | Machine Learning | Data Analysis | Power BI | Computer Vision | NLP
+MSc Data Science @ the City University of London.
+B.Tech Information Technology @ KIIT University India.
 
 🧰 Languages and Tools
 
